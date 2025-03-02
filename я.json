@@ -1,0 +1,132 @@
+[
+{
+ "original_word": "я",
+ "part_of_speech": "pronoun",
+ "gender": "none",
+ "declension": {
+ "nominative": "я",
+ "genitive": "меня",
+ "dative": "мне",
+ "accusative": "меня",
+ "instrumental": "мной/мною",
+ "prepositional": "обо мне"
+ }
+},
+{
+ "original_word": "я",
+ "part_of_speech": "pronoun",
+ "gender": "none",
+ "declension": {
+ "nominative": "я",
+ "genitive": "меня",
+ "dative": "мне",
+ "accusative": "меня",
+ "instrumental": "мной/мною",
+ "prepositional": "обо мне"
+ }
+},
+{
+    "original_word": "я",
+    "part_of_speech": "pronoun",
+    "gender": "none",
+    "declension": {
+        "nominative": "я",
+        "genitive": "меня",
+        "dative": "мне",
+        "accusative": "меня",
+        "instrumental": "мной/мною",
+        "prepositional": "обо мне"
+    }
+},
+{
+    "original_word": "я",
+    "part_of_speech": "pronoun",
+    "gender": "none",
+    "declension": {
+        "nominative": "я",
+        "genitive": "меня",
+        "dative": "мне",
+        "accusative": "меня",
+        "instrumental": "мной/мною",
+        "prepositional": "обо мне"
+    }
+},
+{
+    "original_word": "я",
+    "part_of_speech": "pronoun",
+    "gender": "none",
+    "declension": {
+        "nominative": "я",
+        "genitive": "меня",
+        "dative": "мне",
+        "accusative": "меня",
+        "instrumental": "мной/мною",
+        "prepositional": "обо мне"
+    }
+},
+{
+  "original_word": "я",
+  "part_of_speech": "местоимение",
+  "gender": "не применимо",
+  "declension": {
+    "nominative": "я",
+    "genitive": "меня",
+    "dative": "мне",
+    "accusative": "меня",
+    "instrumental": "мной",
+    "prepositional": "мне"
+  }
+},
+{
+  "original_word": "я",
+  "part_of_speech": "pronoun",
+  "gender": "not applicable",
+  "declension": {
+    "nominative": "я",
+    "genitive": "меня",
+    "dative": "мне",
+    "accusative": "меня",
+    "instrumental": "мной",
+    "prepositional": "мне"
+  }
+},
+{
+  "original_word": "я",
+  "part_of_speech": "pronoun",
+  "gender": "not applicable",
+  "declension": {
+    "nominative": "я",
+    "genitive": "меня",
+    "dative": "мне",
+    "accusative": "меня",
+    "instrumental": "мной",
+    "prepositional": "мне"
+  }
+},
+{
+  "original_word": "я",
+  "part_of_speech": "pronoun",
+  "gender": "not applicable",
+  "declension": {
+    "nominative": "я",
+    "genitive": "меня",
+    "dative": "мне",
+    "accusative": "меня",
+    "instrumental": "мной",
+    "prepositional": "мне"
+  }
+},
+{
+  "original_word": "я",
+  "part_of_speech": "pronoun",
+  "gender": "not applicable",
+  "declension": {
+    "nominative": "я",
+    "genitive": "меня",
+    "dative": "мне",
+    "accusative": "меня",
+    "instrumental": "мной",
+    "prepositional": "мне"
+  }
+}
+]

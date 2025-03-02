@@ -1,0 +1,262 @@
+[
+{
+  "original_word": "собака",
+  "part_of_speech": "существительное",
+  "gender": "женский",
+  "declension": {
+    "nominative": "собака",
+    "genitive": "собаки",
+    "dative": "собаке",
+    "accusative": "собаку",
+    "instrumental": "собакой",
+    "prepositional": "собаке"
+  }
+},
+{
+  "original_word": "собака",
+  "part_of_speech": "noun",
+  "gender": "feminine",
+  "declension": {
+    "singular": {
+      "nominative": "собака",
+      "genitive": "собаки",
+      "dative": "собаке",
+      "accusative": "собаку",
+      "instrumental": "собакой",
+      "prepositional": "собаке"
+    },
+    "plural": {
+      "nominative": "собаки",
+      "genitive": "собак",
+      "dative": "собакам",
+      "accusative": "собак",
+      "instrumental": "собаками",
+      "prepositional": "собаках"
+    }
+  }
+},
+{
+  "original_word": "собака",
+  "part_of_speech": "noun",
+  "gender": "feminine",
+  "declension": {
+    "singular": {
+      "nominative": "собака",
+      "genitive": "собаки",
+      "dative": "собаке",
+      "accusative": "собаку",
+      "instrumental": "собакой",
+      "prepositional": "собаке"
+    },
+    "plural": {
+      "nominative": "собаки",
+      "genitive": "собак",
+      "dative": "собакам",
+      "accusative": "собак",
+      "instrumental": "собаками",
+      "prepositional": "собаках"
+    }
+  }
+},
+{
+  "original_word": "собака",
+  "part_of_speech": "noun",
+  "gender": "feminine",
+  "declension": {
+    "singular": {
+      "nominative": "собака",
+      "genitive": "собаки",
+      "dative": "собаке",
+      "accusative": "собаку",
+      "instrumental": "собакой",
+      "prepositional": "собаке"
+    },
+    "plural": {
+      "nominative": "собаки",
+      "genitive": "собак",
+      "dative": "собакам",
+      "accusative": "собак",
+      "instrumental": "собаками",
+      "prepositional": "собаках"
+    }
+  }
+},
+{
+  "original_word": "собака",
+  "part_of_speech": "noun",
+  "gender": "feminine",
+  "declension": {
+    "singular": {
+      "nominative": "собака",
+      "genitive": "собаки",
+      "dative": "собаке",
+      "accusative": "собаку",
+      "instrumental": "собакой",
+      "prepositional": "собаке"
+    },
+    "plural": {
+      "nominative": "собаки",
+      "genitive": "собак",
+      "dative": "собакам",
+      "accusative": "собак",
+      "instrumental": "собаками",
+      "prepositional": "собаках"
+    }
+  }
+},
+{
+ "original_word": "собака",
+ "part_of_speech": "существительное",
+ "gender": "женский",
+ "declension": {
+ "nominative": {
+ "singular": "собака",
+ "plural": "собаки"
+ },
+ "genitive": {
+ "singular": "собаки",
+ "plural": "собак"
+ },
+ "dative": {
+ "singular": "собаке",
+ "plural": "собакам"
+ },
+ "accusative": {
+ "singular": "собаку",
+ "plural": "собак"
+ },
+ "instrumental": {
+ "singular": ["собакой", "собакою"],
+ "plural": "собаками"
+ },
+ "prepositional": {
+ "singular": "собаке",
+ "plural": "собаках"
+ }
+ }
+},
+{
+    "original_word": "собака",
+    "part_of_speech": "существительное",
+    "gender": "женский",
+    "declension": {
+        "nominative": {
+            "singular": "собака",
+            "plural": "собаки"
+        },
+        "genitive": {
+            "singular": "собаки",
+            "plural": "собак"
+        },
+        "dative": {
+            "singular": "собаке",
+            "plural": "собакам"
+        },
+        "accusative": {
+            "singular": "собаку",
+            "plural": "собак"
+        },
+        "instrumental": {
+            "singular": ["собакой", "собакою"],
+            "plural": "собаками"
+        },
+        "prepositional": {
+            "singular": "собаке",
+            "plural": "собаках"
+        }
+    }
+},
+{
+    "original_word": "собака",
+    "part_of_speech": "существительное",
+    "gender": "женский",
+    "declension": {
+        "nominative": {
+            "singular": "собака",
+            "plural": "собаки"
+        },
+        "genitive": {
+            "singular": "собаки",
+            "plural": "собак"
+        },
+        "dative": {
+            "singular": "собаке",
+            "plural": "собакам"
+        },
+        "accusative": {
+            "singular": "собаку",
+            "plural": "собак"
+        },
+        "instrumental": {
+            "singular": ["собакой", "собакою"],
+            "plural": "собаками"
+        },
+        "prepositional": {
+            "singular": "собаке",
+            "plural": "собаках"
+        }
+    }
+},
+{
+    "original_word": "собака",
+    "part_of_speech": "существительное",
+    "gender": "женский",
+    "declension": {
+        "nominative": {
+            "singular": "собака",
+            "plural": "собаки"
+        },
+        "genitive": {
+            "singular": "собаки",
+            "plural": "собак"
+        },
+        "dative": {
+            "singular": "собаке",
+            "plural": "собакам"
+        },
+        "accusative": {
+            "singular": "собаку",
+            "plural": "собак"
+        },
+        "instrumental": {
+            "singular": ["собакой", "собакою"],
+            "plural": "собаками"
+        },
+        "prepositional": {
+            "singular": "собаке",
+            "plural": "собаках"
+        }
+    }
+},
+{
+    "original_word": "собака",
+    "part_of_speech": "существительное",
+    "gender": "женский",
+    "declension": {
+        "nominative": {
+            "singular": "собака",
+            "plural": "собаки"
+        },
+        "genitive": {
+            "singular": "собаки",
+            "plural": "собак"
+        },
+        "dative": {
+            "singular": "собаке",
+            "plural": "собакам"
+        },
+        "accusative": {
+            "singular": "собаку",
+            "plural": "собак"
+        },
+        "instrumental": {
+            "singular": ["собакой", "собакою"],
+            "plural": "собаками"
+        },
+        "prepositional": {
+            "singular": "собаке",
+            "plural": "собаках"
+        }
+    }
+}
+]

@@ -1,0 +1,457 @@
+[
+{
+  "original_word": "добрый",
+  "part_of_speech": "прилагательное",
+  "gender": "мужской",
+  "declension": {
+    "nominative_singular": "добрый",
+    "genitive_singular": "доброго",
+    "dative_singular": "доброму",
+    "accusative_singular": "доброго",
+    "instrumental_singular": "добрым",
+    "prepositional_singular": "добром",
+    "nominative_plural": "добрые",
+    "genitive_plural": "добрых",
+    "dative_plural": "добрым",
+    "accusative_plural": "добрых",
+    "instrumental_plural": "добрыми",
+    "prepositional_plural": "добрых"
+  }
+},
+{
+  "original_word": "добрый",
+  "part_of_speech": "adjective",
+  "gender": "masculine",
+  "declension": {
+    "masculine": {
+      "nominative_singular": "добрый",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброго",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "feminine": {
+      "nominative_singular": "добрая",
+      "genitive_singular": "доброй",
+      "dative_singular": "доброй",
+      "accusative_singular": "добрую",
+      "instrumental_singular": "доброй",
+      "prepositional_singular": "доброй"
+    },
+    "neuter": {
+      "nominative_singular": "доброе",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброе",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "plural": {
+      "nominative": "добрые",
+      "genitive": "добрых",
+      "dative": "добрым",
+      "accusative": "добрых",
+      "instrumental": "добрыми",
+      "prepositional": "добрых"
+    }
+  }
+},
+{
+  "original_word": "добрый",
+  "part_of_speech": "adjective",
+  "gender": "masculine",
+  "declension": {
+    "masculine": {
+      "nominative_singular": "добрый",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброго",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "feminine": {
+      "nominative_singular": "добрая",
+      "genitive_singular": "доброй",
+      "dative_singular": "доброй",
+      "accusative_singular": "добрую",
+      "instrumental_singular": "доброй",
+      "prepositional_singular": "доброй"
+    },
+    "neuter": {
+      "nominative_singular": "доброе",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброе",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "plural": {
+      "nominative": "добрые",
+      "genitive": "добрых",
+      "dative": "добрым",
+      "accusative": "добрых",
+      "instrumental": "добрыми",
+      "prepositional": "добрых"
+    }
+  }
+},
+{
+  "original_word": "добрый",
+  "part_of_speech": "adjective",
+  "gender": "masculine",
+  "declension": {
+    "masculine": {
+      "nominative_singular": "добрый",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброго",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "feminine": {
+      "nominative_singular": "добрая",
+      "genitive_singular": "доброй",
+      "dative_singular": "доброй",
+      "accusative_singular": "добрую",
+      "instrumental_singular": "доброй",
+      "prepositional_singular": "доброй"
+    },
+    "neuter": {
+      "nominative_singular": "доброе",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброе",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "plural": {
+      "nominative": "добрые",
+      "genitive": "добрых",
+      "dative": "добрым",
+      "accusative": "добрых",
+      "instrumental": "добрыми",
+      "prepositional": "добрых"
+    }
+  }
+},
+{
+  "original_word": "добрый",
+  "part_of_speech": "adjective",
+  "gender": "masculine",
+  "declension": {
+    "masculine": {
+      "nominative_singular": "добрый",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброго",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "feminine": {
+      "nominative_singular": "добрая",
+      "genitive_singular": "доброй",
+      "dative_singular": "доброй",
+      "accusative_singular": "добрую",
+      "instrumental_singular": "доброй",
+      "prepositional_singular": "доброй"
+    },
+    "neuter": {
+      "nominative_singular": "доброе",
+      "genitive_singular": "доброго",
+      "dative_singular": "доброму",
+      "accusative_singular": "доброе",
+      "instrumental_singular": "добрым",
+      "prepositional_singular": "добром"
+    },
+    "plural": {
+      "nominative": "добрые",
+      "genitive": "добрых",
+      "dative": "добрым",
+      "accusative": "добрых",
+      "instrumental": "добрыми",
+      "prepositional": "добрых"
+    }
+  }
+},
+{
+ "original_word": "добрый",
+ "part_of_speech": "прилагательное",
+ "gender": "общий",
+ "declension": {
+ "masculine": {
+ "nominative": "добрый",
+ "genitive": "доброго",
+ "dative": "доброму",
+ "accusative_inanimate": "добрый",
+ "accusative_animate": "доброго",
+ "instrumental": "добрым",
+ "prepositional": "добром"
+ },
+ "feminine": {
+ "nominative": "добрая",
+ "genitive": "доброй",
+ "dative": "доброй",
+ "accusative_inanimate": "добрую",
+ "accusative_animate": "добрую",
+ "instrumental": "доброй/доброю",
+ "prepositional": "доброй"
+ },
+ "neuter": {
+ "nominative": "доброе",
+ "genitive": "доброго",
+ "dative": "доброму",
+ "accusative_inanimate": "доброе",
+ "accusative_animate": "доброе",
+ "instrumental": "добрым",
+ "prepositional": "добром"
+ },
+ "plural": {
+ "nominative": "добрые",
+ "genitive": "добрых",
+ "dative": "добрым",
+ "accusative_inanimate": "добрые",
+ "accusative_animate": "добрых",
+ "instrumental": "добрыми",
+ "prepositional": "добрых"
+ },
+ "short_forms": {
+ "masculine": "добр",
+ "feminine": "добра",
+ "neuter": "добро",
+ "plural": "добры"
+ },
+ "comparative": "добрее/добрей",
+ "superlative": {
+ "masculine": "добрейший",
+ "feminine": "добрейшая",
+ "neuter": "добрейшее",
+ "plural": "добрейшие"
+ }
+ }
+},
+{
+  "original_word": "добрый",
+  "part_of_speech": "прилагательное",
+  "gender": "мужской",
+  "declension": {
+    "masculine_singular": {
+      "nominative": "добрый",
+      "genitive": "доброго",
+      "dative": "доброму",
+      "accusative_inanimate": "добрый",
+      "accusative_animate": "доброго",
+      "instrumental": "добрым",
+      "prepositional": "добром"
+    },
+    "feminine_singular": {
+      "nominative": "добрая",
+      "genitive": "доброй",
+      "dative": "доброй",
+      "accusative_inanimate": "добрую",
+      "accusative_animate": "добрую",
+      "instrumental": "доброй/доброю",
+      "prepositional": "доброй"
+    },
+    "neuter_singular": {
+      "nominative": "доброе",
+      "genitive": "доброго",
+      "dative": "доброму",
+      "accusative_inanimate": "доброе",
+      "accusative_animate": "доброе",
+      "instrumental": "добрым",
+      "prepositional": "добром"
+    },
+    "plural": {
+      "nominative": "добрые",
+      "genitive": "добрых",
+      "dative": "добрым",
+      "accusative_inanimate": "добрые",
+      "accusative_animate": "добрых",
+      "instrumental": "добрыми",
+      "prepositional": "добрых"
+    },
+    "short_forms": {
+      "masculine": "добр",
+      "feminine": "добра",
+      "neuter": "добро",
+      "plural": "добры"
+    },
+    "comparative_form": "добрее/добрей",
+    "superlative_form": {
+      "masculine": "добрейший",
+      "feminine": "добрейшая",
+      "neuter": "добрейшее",
+      "plural": "добрейшие"
+    }
+  }
+},
+{
+    "original_word": "добрый",
+    "part_of_speech": "прилагательное",
+    "gender": "мужской",
+    "declension": {
+        "masculine_singular": {
+            "nominative": "добрый",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "добрый",
+            "accusative_animate": "доброго",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "feminine_singular": {
+            "nominative": "добрая",
+            "genitive": "доброй",
+            "dative": "доброй",
+            "accusative_inanimate": "добрую",
+            "accusative_animate": "добрую",
+            "instrumental": "доброй/доброю",
+            "prepositional": "доброй"
+        },
+        "neuter_singular": {
+            "nominative": "доброе",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "доброе",
+            "accusative_animate": "доброе",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "plural": {
+            "nominative": "добрые",
+            "genitive": "добрых",
+            "dative": "добрым",
+            "accusative_inanimate": "добрые",
+            "accusative_animate": "добрых",
+            "instrumental": "добрыми",
+            "prepositional": "добрых"
+        },
+        "short_forms": {
+            "masculine": "добр",
+            "feminine": "добра",
+            "neuter": "добро",
+            "plural": "добры"
+        },
+        "comparative_form": "добрее/добрей",
+        "superlative_form": {
+            "masculine": "добрейший",
+            "feminine": "добрейшая",
+            "neuter": "добрейшее",
+            "plural": "добрейшие"
+        }
+    }
+},
+{
+    "original_word": "добрый",
+    "part_of_speech": "прилагательное",
+    "gender": "мужской",
+    "declension": {
+        "masculine_singular": {
+            "nominative": "добрый",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "добрый",
+            "accusative_animate": "доброго",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "feminine_singular": {
+            "nominative": "добрая",
+            "genitive": "доброй",
+            "dative": "доброй",
+            "accusative_inanimate": "добрую",
+            "accusative_animate": "добрую",
+            "instrumental": "доброй/доброю",
+            "prepositional": "доброй"
+        },
+        "neuter_singular": {
+            "nominative": "доброе",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "доброе",
+            "accusative_animate": "доброе",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "plural": {
+            "nominative": "добрые",
+            "genitive": "добрых",
+            "dative": "добрым",
+            "accusative_inanimate": "добрые",
+            "accusative_animate": "добрых",
+            "instrumental": "добрыми",
+            "prepositional": "добрых"
+        },
+        "short_forms": {
+            "masculine": "добр",
+            "feminine": "добра",
+            "neuter": "добро",
+            "plural": "добры"
+        },
+        "comparative_form": "добрее/добрей",
+        "superlative_form": {
+            "masculine": "добрейший",
+            "feminine": "добрейшая",
+            "neuter": "добрейшее",
+            "plural": "добрейшие"
+        }
+    }
+},
+{
+    "original_word": "добрый",
+    "part_of_speech": "adjective",
+    "gender": "masculine",
+    "declension": {
+        "masculine_singular": {
+            "nominative": "добрый",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "добрый",
+            "accusative_animate": "доброго",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "feminine_singular": {
+            "nominative": "добрая",
+            "genitive": "доброй",
+            "dative": "доброй",
+            "accusative_inanimate": "добрую",
+            "accusative_animate": "добрую",
+            "instrumental": "доброй/доброю",
+            "prepositional": "доброй"
+        },
+        "neuter_singular": {
+            "nominative": "доброе",
+            "genitive": "доброго",
+            "dative": "доброму",
+            "accusative_inanimate": "доброе",
+            "accusative_animate": "доброе",
+            "instrumental": "добрым",
+            "prepositional": "добром"
+        },
+        "plural": {
+            "nominative": "добрые",
+            "genitive": "добрых",
+            "dative": "добрым",
+            "accusative_inanimate": "добрые",
+            "accusative_animate": "добрых",
+            "instrumental": "добрыми",
+            "prepositional": "добрых"
+        },
+        "short_forms": {
+            "masculine": "добр",
+            "feminine": "добра",
+            "neuter": "добро",
+            "plural": "добры"
+        },
+        "comparative_form": "добрее/добрей",
+        "superlative_form": {
+            "masculine": "добрейший",
+            "feminine": "добрейшая",
+            "neuter": "добрейшее",
+            "plural": "добрейшие"
+        }
+    }
+}
+]

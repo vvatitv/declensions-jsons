@@ -1,0 +1,178 @@
+[
+{
+  "original_word": "бегал",
+  "part_of_speech": "глагол",
+  "gender": "мужской",
+  "declension": {
+    "singular": {
+      "masculine": ["бегал"],
+      "feminine": ["бегала"],
+      "neuter": ["бегало"]
+    },
+    "plural": ["бегали"]
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "verb",
+  "gender": "masculine",
+  "declension": {
+    "singular": {
+      "masculine": "бегал",
+      "feminine": "бегала",
+      "neuter": "бегало"
+    },
+    "plural": "бегали"
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "verb",
+  "gender": "masculine",
+  "declension": {
+    "singular": {
+      "masculine": "бегал",
+      "feminine": "бегала",
+      "neuter": "бегало"
+    },
+    "plural": "бегали"
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "verb",
+  "gender": "masculine",
+  "declension": {
+    "singular": {
+      "masculine": "бегал",
+      "feminine": "бегала",
+      "neuter": "бегало"
+    },
+    "plural": "бегали"
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "verb",
+  "gender": "masculine",
+  "declension": {
+    "singular": {
+      "masculine": "бегал",
+      "feminine": "бегала",
+      "neuter": "бегало"
+    },
+    "plural": "бегали"
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "глагол",
+  "gender": "мужской",
+  "conjugation": {
+    "nominative_singular": "бегаю",
+    "genitive_singular": "бегаешь",
+    "dative_singular": "бегает",
+    "accusative_singular": "бегаем",
+    "instrumental_singular": "бегаете",
+    "prepositional_singular": "бегают",
+    "nominative_plural": "бегала",
+    "genitive_plural": "бегали",
+    "dative_plural": "бегало",
+    "accusative_plural": "бегали",
+    "instrumental_plural": "бегали",
+    "prepositional_plural": "бегали"
+  }
+},
+{
+  "original_word": "бегал",
+  "part_of_speech": "глагол",
+  "gender": "мужской",
+  "conjugation": {
+    "past_tense": {
+      "masculine_singular": "бегал",
+      "feminine_singular": "бегала",
+      "neuter_singular": "бегало",
+      "masculine_plural": "бегали",
+      "feminine_plural": "бегали",
+      "neuter_plural": "бегали"
+    },
+    "present_tense": {
+      "1_person_singular": "бегаю",
+      "2_person_singular": "бегаешь",
+      "3_person_singular": "бегает",
+      "1_person_plural": "бегаем",
+      "2_person_plural": "бегаете",
+      "3_person_plural": "бегают"
+    }
+  }
+},
+{
+    "original_word": "бегал",
+    "part_of_speech": "глагол",
+    "gender": "мужской",
+    "conjugation": {
+        "past_tense": {
+            "singular": {
+                "masculine": "бегал",
+                "feminine": "бегала",
+                "neuter": "бегало"
+            },
+            "plural": "бегали"
+        },
+        "present_tense": {
+            "я": "бегаю",
+            "ты": "бегаешь",
+            "он/она/оно": "бегает",
+            "мы": "бегаем",
+            "вы": "бегаете",
+            "они": "бегают"
+        }
+    }
+},
+{
+    "original_word": "бегал",
+    "part_of_speech": "глагол",
+    "gender": "мужской",
+    "conjugation": {
+        "past_tense": {
+            "singular": {
+                "masculine": "бегал",
+                "feminine": "бегала",
+                "neuter": "бегало"
+            },
+            "plural": "бегали"
+        },
+        "present_tense": {
+            "1_person_singular": "бегаю",
+            "2_person_singular": "бегаешь",
+            "3_person_singular": "бегает",
+            "1_person_plural": "бегаем",
+            "2_person_plural": "бегаете",
+            "3_person_plural": "бегают"
+        }
+    }
+},
+{
+    "original_word": "бегал",
+    "part_of_speech": "глагол",
+    "gender": "мужской",
+    "conjugation": {
+        "past_tense": {
+            "singular": {
+                "masculine": "бегал",
+                "feminine": "бегала",
+                "neuter": "бегало"
+            },
+            "plural": "бегали"
+        },
+        "present_tense": {
+            "1_person_singular": "бегаю",
+            "2_person_singular": "бегаешь",
+            "3_person_singular": "бегает",
+            "1_person_plural": "бегаем",
+            "2_person_plural": "бегаете",
+            "3_person_plural": "бегают"
+        }
+    }
+}
+]
